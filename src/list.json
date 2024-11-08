@@ -1,0 +1,82 @@
+[
+  {
+    "id":1,
+    "name": "Story Book",
+    "price": 0,
+    "category": "Free",
+    "title": "Story",
+    "imgUrl": "https://media.istockphoto.com/id/501794256/photo/book-books-piledbooks.webp?a=1&b=1&s=612x612&w=0&k=20&c=TVxfkzm6vMiMYuhfXkVEpHZ3KiwRf8Ji7gAzhVPVynE="
+  },
+  {
+    "id":2,
+    "name": "Horror Book",
+    "price": 200,
+    "category": "Paid",
+    "title": "Horror",
+    "imgUrl": "https://plus.unsplash.com/premium_photo-1677187301660-5e557d9c0724?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym9va3N8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id":3,
+    "name": "kids Book",
+    "price": 0,
+    "category": "Free",
+    "title": "Kids",
+     "imgUrl": "https://images.unsplash.com/photo-1667312939934-60fc3bfa4ec0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id":4,
+    "name": "comics Book",
+    "price": 0,
+    "category": "Free",
+    "title": "comics",
+     "imgUrl": "https://plus.unsplash.com/premium_photo-1669652639356-f5cb1a086976?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id":5,
+    "name": "loce Book",
+    "price": 0,
+    "category": "Free",
+    "title": "love",
+     "imgUrl": "https://images.unsplash.com/photo-1521056787327-165dc2a32836?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJvb2tzfGVufDB8fDB8fHww"
+  },
+  {
+    "id":6,
+    "name": "news Book",
+    "price": 0,
+    "category": "Free",
+    "title": "education",
+     "imgUrl": "https://media.istockphoto.com/id/900301626/photo/brown-wooden-shelfs-fully-packed-with-books-in-a-library.webp?a=1&b=1&s=612x612&w=0&k=20&c=FsjmUQIst_dufyDSK0QrRyBbJ3v0Ow923COYUg1Tm3g="
+  },
+  {
+    "id":7,
+    "name": "killer Book",
+    "price": 0,
+    "category": "Free",
+    "title": "killer",
+     "imgUrl": "https://images.pexels.com/photos/13650913/pexels-photo-13650913.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=252&fit=crop&h=408"
+  },
+  {
+    "id":8,
+    "name": "jungle Book",
+    "price": 0,
+    "category": "Free",
+    "title": "wild",
+     "imgUrl": "https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id":9,
+    "name": "comedy Book",
+    "price": 110,
+    "category": "Paid",
+    "title": "comedy",
+     "imgUrl": "https://images.pexels.com/photos/45717/pexels-photo-45717.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id":10,
+    "name": "real Book",
+    "price": 0,
+    "category": "Free",
+    "title": "Realistic",
+     "imgUrl": "https://images.pexels.com/photos/824197/pexels-photo-824197.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
