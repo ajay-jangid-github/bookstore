@@ -1,7 +1,8 @@
 //import React from 'react'
-import { Link } from "react-router-dom";
-function Login() {
+import { Link } from "react-router-dom"
+function Log() {
   return (
+
 <>
 <div>
 
@@ -9,7 +10,7 @@ function Login() {
   <div className="modal-box">
     <form method="dialog">
       {/* if there is a button in form, it will close the modal */}
-      <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
+      <Link to = "/" className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</Link>
     </form>
     <h3 className="font-bold text-lg">Login!</h3>
    <div className="mt-2 space-y-2">
@@ -41,4 +42,6 @@ function Login() {
   )
 }
 
-export default Login;
+
+
+export default Log
